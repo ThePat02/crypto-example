@@ -1,0 +1,11 @@
+C:\xamppnew\htdocs\encryption-example\encryption-example\encryption-example\bin\Debug\netcoreapp2.0\encryption-example.deps.json
+C:\xamppnew\htdocs\encryption-example\encryption-example\encryption-example\bin\Debug\netcoreapp2.0\encryption-example.runtimeconfig.json
+C:\xamppnew\htdocs\encryption-example\encryption-example\encryption-example\bin\Debug\netcoreapp2.0\encryption-example.runtimeconfig.dev.json
+C:\xamppnew\htdocs\encryption-example\encryption-example\encryption-example\bin\Debug\netcoreapp2.0\encryption-example.dll
+C:\xamppnew\htdocs\encryption-example\encryption-example\encryption-example\bin\Debug\netcoreapp2.0\encryption-example.pdb
+C:\xamppnew\htdocs\encryption-example\encryption-example\encryption-example\obj\Debug\netcoreapp2.0\encryption-example.csprojResolveAssemblyReference.cache
+C:\xamppnew\htdocs\encryption-example\encryption-example\encryption-example\obj\Debug\netcoreapp2.0\encryption-example.csproj.CoreCompileInputs.cache
+C:\xamppnew\htdocs\encryption-example\encryption-example\encryption-example\obj\Debug\netcoreapp2.0\encryption-example.AssemblyInfoInputs.cache
+C:\xamppnew\htdocs\encryption-example\encryption-example\encryption-example\obj\Debug\netcoreapp2.0\encryption-example.AssemblyInfo.cs
+C:\xamppnew\htdocs\encryption-example\encryption-example\encryption-example\obj\Debug\netcoreapp2.0\encryption-example.dll
+C:\xamppnew\htdocs\encryption-example\encryption-example\encryption-example\obj\Debug\netcoreapp2.0\encryption-example.pdb
